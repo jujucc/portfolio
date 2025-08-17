@@ -229,7 +229,7 @@ nav ul {
     display: inline-block;
     padding-left: 0;
     list-style: none;
-    padding: 20px;
+    padding: 10px;
     margin-bottom: 0;
     -webkit-transition: all .5s;
     transition: all .5s;
@@ -237,13 +237,13 @@ nav ul {
 
 nav li {
     display: inline-block;
-    margin: 10px;
+    margin: 6px;
 }
 
 nav li a {
-    font-family: 'poppins';
+    font-family: 'geometos neue';
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     color: #1e1e1e;
     font-size: 8px;
     font-weight: bold;
